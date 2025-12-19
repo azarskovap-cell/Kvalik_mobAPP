@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Kvalik</string>
+
+    <!-- Главный экран -->
+    <string name="title_tasks">Мои задачи</string>
+    <string name="btn_profile">Профиль</string>
+    <string name="btn_add_task">Добавить задачу</string>
+
+    <!-- Профиль -->
+    <string name="back">Назад</string>
+    <string name="profile_avatar">Аватар</string>
+    <string name="profile_username_placeholder">Пользователь</string>
+    <string name="profile_userid_placeholder">ID: 0</string>
+
+    <string name="profile_stats_title">Статистика</string>
+    <string name="total">Всего</string>
+    <string name="active">Активные</string>
+    <string name="done">Выполнено</string>
+
+    <string name="profile_stats_placeholder">Всего задач: 0</string>
+    <string name="profile_logout">Выйти из аккаунта</string>
+
+    <!-- Для предупреждения TabLayout -->
+    <string name="tabs_tasks_filter">Фильтр задач</string>
+</resources>
